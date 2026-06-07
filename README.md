@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Yet another Telegram Voice Recognition bot but using vosk and supports 20+ languages.
+  name: Transcript-Extractor-Bot version: 1.0 type: Repository author: VarshuAi description: >   Yet another Telegram Voice Recognition bot but using vosk and supports 20+ languages. primary_tech: Python
 primary_tech: Python
 ```
 
